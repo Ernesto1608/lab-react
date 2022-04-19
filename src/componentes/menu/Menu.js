@@ -13,16 +13,16 @@ class Menu extends React.Component {
 
 			<Navbar bg="light" expand="lg">
 				<Container>
-					<Navbar.Brand href="/">React-Bootstrap</Navbar.Brand>
+					<Navbar.Brand href="/lab-react/">React-Bootstrap</Navbar.Brand>
 					<Navbar.Toggle aria-controls="basic-navbar-nav" />
 					<Navbar.Collapse id="basic-navbar-nav">
 						<Nav className="me-auto">
-							<Nav.Link href="/">Game</Nav.Link>
-							<Nav.Link href="/">Game</Nav.Link>
+							<Nav.Link href="/lab-react/">Game</Nav.Link>
+							<Nav.Link href="/lab-react/">Game</Nav.Link>
 							<NavDropdown title="Game dropdown" id="basic-nav-dropdown">
-								<NavDropdown.Item href="/">Game</NavDropdown.Item>
-								<NavDropdown.Item href="/">Game</NavDropdown.Item>
-								<NavDropdown.Item href="/">Game</NavDropdown.Item>
+								<NavDropdown.Item href="/lab-react/">Game</NavDropdown.Item>
+								<NavDropdown.Item href="/lab-react/">Game</NavDropdown.Item>
+								<NavDropdown.Item href="/lab-react/">Game</NavDropdown.Item>
 								<NavDropdown.Divider />
 								<NavDropdown.Item href="https://cdn.eldeforma.com/wp-content/uploads/2020/06/396216-341643145878615-1483311747-n.jpg">This is not an easter egg</NavDropdown.Item>
 							</NavDropdown>
